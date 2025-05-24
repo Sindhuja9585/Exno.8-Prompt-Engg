@@ -1,4 +1,4 @@
-# Exno.8-Prompt-Engg
+# Exno.8-Exploration of Prompting Techniques for Audio Generation
 # NAME: SINDHUJA P
 # Register no: 212222220047
 # Aim: 
